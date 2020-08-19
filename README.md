@@ -4,7 +4,7 @@ This project is designed to scrape apartment rental availability
 ## Understanding the CSV fields
 
 | Column Name | Description |
-|---|---|---|
+|---|---|
 | Date Recorded | The date this row was recorded |
 | Rooms | Number of bedrooms in this apartment |
 | Baths | Number of bathrooms in this unit  |
